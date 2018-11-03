@@ -3,7 +3,7 @@ Shams, Bita, and Saman Haratizadeh. "IteRank: An iterative network-oriented appr
 
 #sample code
 
-Main.R: This file Provide code to run and evaluate GRank through "weak generalization methodology"
+Initialization.R: This file Provide code to run and evaluate GRank through "weak generalization methodology"
 
 Common code.R: This file Provide required code for data preprocessing and evaluation.
 
