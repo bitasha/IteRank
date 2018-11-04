@@ -7,7 +7,7 @@ Initialization.R: This file Provide code to run and evaluate GRank through "weak
 
 Common code.R: This file Provide required code for data preprocessing and evaluation.
 
-IteRank. R: This file provide required code for TPG graph construction, make recommendation and evaluation
+IteRank2.R: This file provide required code for TPG graph construction, make recommendation and evaluation
 
 #Sample data rating.csv: is a rating dataset
 
