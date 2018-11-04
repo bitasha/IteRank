@@ -2,7 +2,7 @@ rm(list=ls())
 setwd("~/IteRank")
 
 source(paste(getwd(),'/Common code.R',sep=""))
-source(paste(getwd(),'/IteRank.R',sep=""))
+source(paste(getwd(),'/IteRank2.R',sep=""))
 
 
 
